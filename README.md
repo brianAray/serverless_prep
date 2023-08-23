@@ -1,4 +1,4 @@
-# Serverless NERD Reading Material
+# Serverless Prep
 
 This training stack relies on JavaScript heavily. We will be using it for both the backend API development (Node.js) and the frontend UI development (TypeScript/React). The goal is to be prepared without going overboard, so for these reading materials, we will be focusing mostly on JavaScript and Node.js. The next aspect is NoSQL (Not Only SQL) databases, which if you are familiar with SQL databases, will be a little confusing at first, and so reading materials have been provided to improve your understanding.
 
